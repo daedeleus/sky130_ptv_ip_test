@@ -1,0 +1,21 @@
+
+61. Printing statistics.
+
+=== fa ===
+
+   Number of wires:                  9
+   Number of wire bits:              9
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     sky130_fd_sc_hd__buf_1          1
+     sky130_fd_sc_hd__mux2_2         1
+     sky130_fd_sc_hd__nand2_2        1
+     sky130_fd_sc_hd__or2_2          1
+     sky130_fd_sc_hd__xnor2_2        2
+
+   Chip area for module '\fa': 60.057600
+
