@@ -1,3 +1,5 @@
+# credits :-
+# https://github.com/zakirhussainoseda/osedatools
 echo
 echo
 echo "|*********************************************************************************|"
